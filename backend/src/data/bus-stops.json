@@ -1,0 +1,484 @@
+[
+    {
+        "id": 1,
+        "name": "Ikeja",
+        "lat": 6.6018,
+        "lng": 3.3515,
+        "aliases": [
+            "Ike ja",
+            "Ikeja Bus Stop",
+            "Ikeja Under Bridge"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Oshodi",
+        "lat": 6.5451,
+        "lng": 3.3442,
+        "aliases": [
+            "Oshodi Oke",
+            "Oshodi Bus Stop"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "CMS",
+        "lat": 6.4541,
+        "lng": 3.3947,
+        "aliases": [
+            "Lagos Island",
+            "CMS Bus Stop"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Lekki",
+        "lat": 6.4474,
+        "lng": 3.4702,
+        "aliases": [
+            "Lekki Phase 1",
+            "Lekki Roundabout"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Victoria Island",
+        "lat": 6.4281,
+        "lng": 3.4219,
+        "aliases": [
+            "VI",
+            "V.I",
+            "Victoria Island Bus Stop"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Ikorodu",
+        "lat": 6.6194,
+        "lng": 3.5062,
+        "aliases": [
+            "Ikorodu Garage",
+            "Ikorodu Bus Stop"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Ajah",
+        "lat": 6.4674,
+        "lng": 3.5671,
+        "aliases": [
+            "Ajah Bus Stop",
+            "Ajah Roundabout"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Yaba",
+        "lat": 6.5158,
+        "lng": 3.3714,
+        "aliases": [
+            "Yaba Bus Stop",
+            "Yaba Market"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Surulere",
+        "lat": 6.4969,
+        "lng": 3.3534,
+        "aliases": [
+            "Surulere Bus Stop",
+            "Surelere"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Maryland",
+        "lat": 6.5774,
+        "lng": 3.3671,
+        "aliases": [
+            "Maryland Bus Stop",
+            "Merry Land"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Anthony",
+        "lat": 6.5569,
+        "lng": 3.3703,
+        "aliases": [
+            "Anthony Bus Stop",
+            "Anthony Village"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Mile 2",
+        "lat": 6.4647,
+        "lng": 3.3119,
+        "aliases": [
+            "Mile Two",
+            "Mile 2 Bus Stop"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Festac",
+        "lat": 6.4641,
+        "lng": 3.2839,
+        "aliases": [
+            "Festac Town",
+            "Festac Bus Stop"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Berger",
+        "lat": 6.6386,
+        "lng": 3.3515,
+        "aliases": [
+            "Berger Bus Stop",
+            "Ojodu Berger"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Ojota",
+        "lat": 6.5892,
+        "lng": 3.3783,
+        "aliases": [
+            "Ojota Bus Stop",
+            "Ojota Interchange"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Ketu",
+        "lat": 6.5995,
+        "lng": 3.3861,
+        "aliases": [
+            "Ketu Bus Stop",
+            "Ketu Mile 12"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Obalende",
+        "lat": 6.4474,
+        "lng": 3.4106,
+        "aliases": [
+            "Obalende Bus Stop"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Costain",
+        "lat": 6.4861,
+        "lng": 3.3736,
+        "aliases": [
+            "Costain Bus Stop",
+            "Costain Roundabout"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Palmgrove",
+        "lat": 6.5569,
+        "lng": 3.3789,
+        "aliases": [
+            "Palm Grove",
+            "Palmgrove Bus Stop"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Iyana Ipaja",
+        "lat": 6.6178,
+        "lng": 3.2572,
+        "aliases": [
+            "Iyana-Ipaja",
+            "Ipaja"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Egbeda",
+        "lat": 6.5722,
+        "lng": 3.2833,
+        "aliases": [
+            "Egbeda Bus Stop"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Isolo",
+        "lat": 6.5372,
+        "lng": 3.3333,
+        "aliases": [
+            "Isolo Bus Stop"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Mushin",
+        "lat": 6.5289,
+        "lng": 3.3444,
+        "aliases": [
+            "Mushin Bus Stop",
+            "Mushin Market"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Agege",
+        "lat": 6.6156,
+        "lng": 3.3172,
+        "aliases": [
+            "Agege Bus Stop",
+            "Agege Motor Road"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Apapa",
+        "lat": 6.4489,
+        "lng": 3.3594,
+        "aliases": [
+            "Apapa Bus Stop",
+            "Apapa Wharf"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Badagry",
+        "lat": 6.4167,
+        "lng": 2.8833,
+        "aliases": [
+            "Badagry Bus Stop"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Epe",
+        "lat": 6.5833,
+        "lng": 3.9833,
+        "aliases": [
+            "Epe Bus Stop"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Iyana Oba",
+        "lat": 6.5333,
+        "lng": 3.2667,
+        "aliases": [
+            "Iyana-Oba"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Abule Egba",
+        "lat": 6.6333,
+        "lng": 3.3,
+        "aliases": [
+            "Abule-Egba",
+            "Abule Egba Bus Stop"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Ijesha",
+        "lat": 6.5167,
+        "lng": 3.35,
+        "aliases": [
+            "Ijesha Bus Stop",
+            "Ijesha Market"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Fadeyi",
+        "lat": 6.5333,
+        "lng": 3.3667,
+        "aliases": [
+            "Fadeyi Bus Stop"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Jibowu",
+        "lat": 6.5167,
+        "lng": 3.3667,
+        "aliases": [
+            "Jibowu Bus Stop"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Onipanu",
+        "lat": 6.5333,
+        "lng": 3.3833,
+        "aliases": [
+            "Onipanu Bus Stop"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Gbagada",
+        "lat": 6.5667,
+        "lng": 3.3833,
+        "aliases": [
+            "Gbagada Bus Stop",
+            "Gbagada Phase 1"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Bariga",
+        "lat": 6.5333,
+        "lng": 3.3917,
+        "aliases": [
+            "Bariga Bus Stop"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Alapere",
+        "lat": 6.5833,
+        "lng": 3.3833,
+        "aliases": [
+            "Alapere Bus Stop",
+            "Alapere Ketu"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Ilupeju",
+        "lat": 6.5522,
+        "lng": 3.3589,
+        "aliases": [
+            "Ilupeju Bus Stop"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Ikotun",
+        "lat": 6.5667,
+        "lng": 3.2667,
+        "aliases": [
+            "Ikotun Bus Stop"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Alimosho",
+        "lat": 6.6,
+        "lng": 3.2667,
+        "aliases": [
+            "Alimosho Bus Stop"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Idimu",
+        "lat": 6.6,
+        "lng": 3.2833,
+        "aliases": [
+            "Idimu Bus Stop"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Igando",
+        "lat": 6.5667,
+        "lng": 3.2333,
+        "aliases": [
+            "Igando Bus Stop"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Sangotedo",
+        "lat": 6.4667,
+        "lng": 3.6333,
+        "aliases": [
+            "Sangotedo Bus Stop"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Awoyaya",
+        "lat": 6.4667,
+        "lng": 3.6,
+        "aliases": [
+            "Awoyaya Bus Stop"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Ibeju Lekki",
+        "lat": 6.4333,
+        "lng": 3.85,
+        "aliases": [
+            "Ibeju-Lekki",
+            "Ibeju"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Magodo",
+        "lat": 6.6,
+        "lng": 3.3667,
+        "aliases": [
+            "Magodo Phase 1",
+            "Magodo Bus Stop"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Ojodu",
+        "lat": 6.6333,
+        "lng": 3.35,
+        "aliases": [
+            "Ojodu Bus Stop"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Ogba",
+        "lat": 6.6167,
+        "lng": 3.3417,
+        "aliases": [
+            "Ogba Bus Stop"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Aguda",
+        "lat": 6.5,
+        "lng": 3.3667,
+        "aliases": [
+            "Aguda Bus Stop",
+            "Aguda Surulere"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Dopemu",
+        "lat": 6.6,
+        "lng": 3.3167,
+        "aliases": [
+            "Dopemu Bus Stop"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Orile",
+        "lat": 6.4833,
+        "lng": 3.3333,
+        "aliases": [
+            "Orile Bus Stop",
+            "Orile Iganmu"
+        ]
+    }
+]

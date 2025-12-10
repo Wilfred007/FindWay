@@ -1,0 +1,434 @@
+[
+    {
+        "from": "Ikeja",
+        "to": "Oshodi",
+        "fare": 300,
+        "time": 20,
+        "busNumber": "BRT Blue Line",
+        "busType": "BRT",
+        "distance": 8
+    },
+    {
+        "from": "Oshodi",
+        "to": "CMS",
+        "fare": 400,
+        "time": 35,
+        "busNumber": "BRT Red Line",
+        "busType": "BRT",
+        "distance": 15
+    },
+    {
+        "from": "CMS",
+        "to": "Lekki",
+        "fare": 350,
+        "time": 25,
+        "busNumber": "Danfo 308",
+        "busType": "Danfo",
+        "distance": 12
+    },
+    {
+        "from": "Lekki",
+        "to": "Victoria Island",
+        "fare": 250,
+        "time": 15,
+        "busNumber": "Danfo 201",
+        "busType": "Danfo",
+        "distance": 6
+    },
+    {
+        "from": "Ikeja",
+        "to": "Maryland",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 405",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Maryland",
+        "to": "Anthony",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 406",
+        "busType": "Danfo",
+        "distance": 3
+    },
+    {
+        "from": "Anthony",
+        "to": "Ojota",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "BRT Blue Line",
+        "busType": "BRT",
+        "distance": 4
+    },
+    {
+        "from": "Ojota",
+        "to": "Ketu",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "BRT Blue Line",
+        "busType": "BRT",
+        "distance": 3
+    },
+    {
+        "from": "Ketu",
+        "to": "Ikorodu",
+        "fare": 400,
+        "time": 40,
+        "busNumber": "BRT Ikorodu Line",
+        "busType": "BRT",
+        "distance": 20
+    },
+    {
+        "from": "Oshodi",
+        "to": "Yaba",
+        "fare": 250,
+        "time": 20,
+        "busNumber": "Danfo 502",
+        "busType": "Danfo",
+        "distance": 7
+    },
+    {
+        "from": "Yaba",
+        "to": "Surulere",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 503",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Surulere",
+        "to": "CMS",
+        "fare": 300,
+        "time": 25,
+        "busNumber": "Danfo 504",
+        "busType": "Danfo",
+        "distance": 10
+    },
+    {
+        "from": "CMS",
+        "to": "Obalende",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 301",
+        "busType": "Danfo",
+        "distance": 3
+    },
+    {
+        "from": "Obalende",
+        "to": "Victoria Island",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 302",
+        "busType": "Danfo",
+        "distance": 3
+    },
+    {
+        "from": "Victoria Island",
+        "to": "Ajah",
+        "fare": 500,
+        "time": 35,
+        "busNumber": "Danfo 202",
+        "busType": "Danfo",
+        "distance": 18
+    },
+    {
+        "from": "Ajah",
+        "to": "Sangotedo",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 203",
+        "busType": "Danfo",
+        "distance": 6
+    },
+    {
+        "from": "Sangotedo",
+        "to": "Awoyaya",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 204",
+        "busType": "Danfo",
+        "distance": 4
+    },
+    {
+        "from": "Ikeja",
+        "to": "Berger",
+        "fare": 250,
+        "time": 20,
+        "busNumber": "Danfo 407",
+        "busType": "Danfo",
+        "distance": 7
+    },
+    {
+        "from": "Berger",
+        "to": "Ojodu",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 408",
+        "busType": "Danfo",
+        "distance": 3
+    },
+    {
+        "from": "Ojodu",
+        "to": "Ogba",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 409",
+        "busType": "Danfo",
+        "distance": 3
+    },
+    {
+        "from": "Ogba",
+        "to": "Ikeja",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 410",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Oshodi",
+        "to": "Isolo",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 601",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Isolo",
+        "to": "Ikotun",
+        "fare": 250,
+        "time": 20,
+        "busNumber": "Danfo 602",
+        "busType": "Danfo",
+        "distance": 7
+    },
+    {
+        "from": "Ikotun",
+        "to": "Igando",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 603",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Oshodi",
+        "to": "Mushin",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 701",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Mushin",
+        "to": "Yaba",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 702",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Oshodi",
+        "to": "Agege",
+        "fare": 250,
+        "time": 20,
+        "busNumber": "Danfo 801",
+        "busType": "Danfo",
+        "distance": 8
+    },
+    {
+        "from": "Agege",
+        "to": "Abule Egba",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 802",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Abule Egba",
+        "to": "Iyana Ipaja",
+        "fare": 250,
+        "time": 20,
+        "busNumber": "Danfo 803",
+        "busType": "Danfo",
+        "distance": 7
+    },
+    {
+        "from": "CMS",
+        "to": "Apapa",
+        "fare": 300,
+        "time": 25,
+        "busNumber": "Danfo 901",
+        "busType": "Danfo",
+        "distance": 10
+    },
+    {
+        "from": "Apapa",
+        "to": "Mile 2",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 902",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Mile 2",
+        "to": "Festac",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 903",
+        "busType": "Danfo",
+        "distance": 3
+    },
+    {
+        "from": "Festac",
+        "to": "Badagry",
+        "fare": 600,
+        "time": 60,
+        "busNumber": "Molue 101",
+        "busType": "Molue",
+        "distance": 35
+    },
+    {
+        "from": "Yaba",
+        "to": "Fadeyi",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 505",
+        "busType": "Danfo",
+        "distance": 3
+    },
+    {
+        "from": "Fadeyi",
+        "to": "Jibowu",
+        "fare": 100,
+        "time": 8,
+        "busNumber": "Danfo 506",
+        "busType": "Danfo",
+        "distance": 2
+    },
+    {
+        "from": "Jibowu",
+        "to": "Onipanu",
+        "fare": 100,
+        "time": 8,
+        "busNumber": "Danfo 507",
+        "busType": "Danfo",
+        "distance": 2
+    },
+    {
+        "from": "Onipanu",
+        "to": "Palmgrove",
+        "fare": 100,
+        "time": 8,
+        "busNumber": "Danfo 508",
+        "busType": "Danfo",
+        "distance": 2
+    },
+    {
+        "from": "Palmgrove",
+        "to": "Anthony",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 509",
+        "busType": "Danfo",
+        "distance": 3
+    },
+    {
+        "from": "Anthony",
+        "to": "Gbagada",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 510",
+        "busType": "Danfo",
+        "distance": 3
+    },
+    {
+        "from": "Gbagada",
+        "to": "Bariga",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 511",
+        "busType": "Danfo",
+        "distance": 3
+    },
+    {
+        "from": "Ikeja",
+        "to": "Ilupeju",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 411",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Ilupeju",
+        "to": "Yaba",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 412",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Lekki",
+        "to": "Ajah",
+        "fare": 400,
+        "time": 30,
+        "busNumber": "Danfo 205",
+        "busType": "Danfo",
+        "distance": 14
+    },
+    {
+        "from": "Ikeja",
+        "to": "Magodo",
+        "fare": 300,
+        "time": 25,
+        "busNumber": "Danfo 413",
+        "busType": "Danfo",
+        "distance": 10
+    },
+    {
+        "from": "Magodo",
+        "to": "Ojota",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 414",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Oshodi",
+        "to": "Egbeda",
+        "fare": 250,
+        "time": 20,
+        "busNumber": "Danfo 604",
+        "busType": "Danfo",
+        "distance": 8
+    },
+    {
+        "from": "Egbeda",
+        "to": "Idimu",
+        "fare": 200,
+        "time": 15,
+        "busNumber": "Danfo 605",
+        "busType": "Danfo",
+        "distance": 5
+    },
+    {
+        "from": "Idimu",
+        "to": "Ikotun",
+        "fare": 150,
+        "time": 10,
+        "busNumber": "Danfo 606",
+        "busType": "Danfo",
+        "distance": 4
+    }
+]
